@@ -17,8 +17,8 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/blevesearch/vellum"
-	"github.com/blevesearch/vellum/regexp"
+	"github.com/appbaseio/vellum"
+	"github.com/appbaseio/vellum/regexp"
 	"github.com/spf13/cobra"
 )
 

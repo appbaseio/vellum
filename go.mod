@@ -1,4 +1,4 @@
-module github.com/blevesearch/vellum
+module github.com/appbaseio/vellum
 
 go 1.13
 
